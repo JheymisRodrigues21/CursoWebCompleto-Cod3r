@@ -1,3 +1,5 @@
+
+
 const valores = [7.7, 8.9, 6.3, 9.2]//Os indices contam a partir do zero
 console.log(valores [0], valores[3])// Acessa os elementos
 console.log(valores [4]) //Retorna Undefined, pois o indice não existe no Array
@@ -18,4 +20,4 @@ console.log(valores.pop()) //Esta função retira o ultimo indice do Array, no c
 delete valores[0]// Outra forma de ecluir o valor do indice, porem eta mantem o indice.
 console.log(valores)
 
-tconsole.log(typeof valores)//Em Javascript, Array é um objeto
+console.log(typeof valores)//Em Javascript, Array é um objeto

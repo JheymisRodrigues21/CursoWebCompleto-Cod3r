@@ -2,7 +2,6 @@
 Usada para armazenar e manipular textos, como palavras, frases ou numeros,
 sempre envolvidas por aspas duplas ("") ou aspas simples ('').*/
 
-
 const escola = "Cod3r"
 console.log(escola.charAt(4))/*função CharAt exibe o carctere no indicie
                             indicado. Os indices contam a partir do 0 (c=0)*/
