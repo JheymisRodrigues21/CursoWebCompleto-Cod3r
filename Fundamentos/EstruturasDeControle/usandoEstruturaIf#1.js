@@ -1,5 +1,5 @@
 function soBoaNoticia(nota) {
-    if (nota >= 7) {
+    if (nota >= 7) {// usou expressão relacional no exemplo
         console.log('Aprovado com ' + nota)
     }
 }
